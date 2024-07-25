@@ -26,13 +26,3 @@ stats_df <- data.frame(
 )
 
 print(stats_df)
-
-
-
-iris <- read.csv("iris.csv")
-
-head(iris)
-tail(iris)
-
-summary(iris)
-
